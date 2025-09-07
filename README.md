@@ -2,6 +2,7 @@
 
 A clean, modern restaurant website built with HTML, CSS, and JavaScript. Features a responsive design, interactive menu showcase, and online reservation system.
 
+Demo: https://siby369.github.io/restaurant-website/
 ## Features
 
 - Responsive design for all devices
